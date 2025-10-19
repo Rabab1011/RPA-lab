@@ -1,0 +1,1 @@
+Country:cairoTemperature:28Humidity:35%Status: Sunny

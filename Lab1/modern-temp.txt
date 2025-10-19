@@ -1,0 +1,7 @@
+Country: ksa
+
+Temperature: 34
+
+Humidity: 10%
+
+Status: Sunny
