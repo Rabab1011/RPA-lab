@@ -1,0 +1,4 @@
+Country: cairo
+Temperature: 
+Humidity: 46%
+Status: 25
