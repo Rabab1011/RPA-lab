@@ -1,0 +1,4 @@
+Country: alex
+Temperature: 20
+Humidity: 81%
+Status: Clear

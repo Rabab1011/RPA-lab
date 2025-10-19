@@ -1,0 +1,9 @@
+MovieName: Black Phone 2
+
+Year: 2025
+
+Rating: 6.7/106.4K
+
+Popularity: 33
+
+URL: https://www.imdb.com/title/tt29644189/?ref_=nv_sr_srsg_1_tt_7_nm_0_in_0_q_black%2520phone2
